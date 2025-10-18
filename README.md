@@ -1,0 +1,2 @@
+# Zama
+The Zama Confidential Blockchain Protocol (or simply the Zama Protocol) enables confidential smart contracts on top of any L1 or L2. It is the most advanced confidentiality protocol to date, offering
